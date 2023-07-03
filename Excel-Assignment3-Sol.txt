@@ -1,0 +1,78 @@
+
+Excel Assignment-3:
+
+1. How and when to use the AutoSum command in excel?
+
+Solution: The AutoSum command in Excel is a useful feature that automatically calculates the sum of a selected range of cell.
+          
+ Summing a column or row:
+ 
+ 1.Select the cell where you want the sum to appear.
+ 2.Then, Click on the "AutoSum" button (Σ) in the toolbar. It is usually located in the Editing group on the Home tab.
+ 3.Excel will automatically select what it believes to be the range we want to sum. If it's correct, press Enter to confirm the sum. If it's not correct,
+   we can manually adjust the selected range by dragging over the desired cells or manually entering the range.
+
+2. What is the shortcut key to perform AutoSum?
+
+Solution: The shortcut key to perform AutoSum in Excel is "Alt + =" (press and hold the Alt key and then press the equal sign key).
+
+3. How do you get rid of Formula that omits adjacent cells?
+
+Solution: To get rid of a formula that omits adjacent cells in Excel, we can follow these steps:-
+      
+1. Select the cell with the formula that you want to remove.
+2. Press the F2 key on your keyboard. This enters the cell into edit mode.
+3. Press the Delete key or Backspace key on your keyboard to delete the formula.
+4. Press Enter to exit edit mode.
+
+4. How do you select non-adjacent cells in Excel 2016?
+
+Solution: In Excel 2016, you can select non-adjacent cells using the Ctrl key (or the Command key on Mac). 
+
+   we can do it:
+a. Click on the first cell you want to select
+b. Hold down the Ctrl key (or Command key on Mac) on your keyboard.
+c. While holding down the Ctrl key (or Command key on Mac), click on the additional cells you want to select. 
+   Then, Each click will add the clicked cell to the selection.
+d. Release the Ctrl key (or Command key on Mac) when you have selected all the non-adjacent cells you need.
+
+5. What happens if you choose a column, hold down the Alt key and press 
+   the letters ocw in quick succession?
+
+Solution: When you perform the Alt + ocw sequence, Excel analyzes the data in the selected column and looks for patterns.
+          It then tries to intelligently predict and populate the values in the adjacent cells based on that pattern.
+          
+     Eg:-If you have a column with full names (e.g., "John Smith," "Jane Doe"), and you perform the Alt + ocw sequence,
+         Excel might recognize the   pattern of separating first and last names. It would then automatically fill the adjacent cells with
+         the first and last names extracted from the original column.
+
+6. If you right-click on a row reference number and click on Insert, where will 
+   the row be added?
+
+Solution: Right-click the whole row above which you want to insert the new row, and then select Insert Rows.
+          To insert multiple rows: Select the same number of rows above which you want to add new ones. 
+          Right-click the selection, and then select Insert Rows.
+    
+          Shortcut is used to insert a new row:- Alt+I+R 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
